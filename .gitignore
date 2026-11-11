@@ -1,0 +1,12 @@
+# Project-specific notes and audit outputs must stay outside this reusable skill.
+SMMR_SECURITY_AUDIT_NOTES.md
+run-metadata.json
+architecture.md
+coverage-ledger.json
+findings.json
+REPORT.md
+FINDINGS-DETAIL.md
+NEEDS-VALIDATION.md
+agents/
+scratch/
+artifacts/
